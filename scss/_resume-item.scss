@@ -25,3 +25,13 @@ section.resume-section {
     padding-bottom: 3rem !important;
   }
 }
+
+@media (max-width: 768px) {
+  .profile-hero {
+    text-align: center;
+  }
+
+  .mobile-profile-thumbnail {
+    width: 150px;
+  }
+}

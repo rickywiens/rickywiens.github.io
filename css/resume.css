@@ -175,6 +175,15 @@ section.resume-section .resume-item .resume-date {
   }
 }
 
+@media (max-width: 768px) {
+  .profile-hero {
+    text-align: center;
+  }
+  .mobile-profile-thumbnail {
+    width: 150px;
+  }
+}
+
 .bg-primary {
   background-color: #6d1d46 !important;
 }
